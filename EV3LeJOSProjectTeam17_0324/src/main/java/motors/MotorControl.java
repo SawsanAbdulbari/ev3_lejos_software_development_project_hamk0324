@@ -1,4 +1,5 @@
-package motors;
+package main.java.motors;
+
 
 import lejos.hardware.port.MotorPort;
 import lejos.utility.Delay;

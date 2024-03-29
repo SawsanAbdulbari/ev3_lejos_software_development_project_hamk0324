@@ -1,7 +1,7 @@
 package main.java.colorSensor;
 
 import lejos.hardware.Button;
-import motors.MotorControl;
+import main.java.motors.MotorControl;
 
 /**
  * 
