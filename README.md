@@ -71,6 +71,6 @@ ev3_lejos_software_development_project_hamk2024/
 Clone this repository and navigate into the project directory:
 
 ```bash
-git clone https://github.com/SawsanAbdulbari/ev3_lejos_software_development_project_hamk2024.git
+git clone https://github.com/SawsanAbdulbari/ev3_lejos_software_development_project_hamk0324.git
 cd ev3_lejos_software_development_project_hamk2024
 ```
