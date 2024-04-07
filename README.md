@@ -88,7 +88,15 @@ EV3LeJOSProjectTeam17_0324
 
 Clone this repository and navigate into the project directory:
 
+1. Clone the repository:
+
+   
 ```bash
 git clone https://github.com/SawsanAbdulbari/ev3_lejos_software_development_project_hamk0324.git
 cd ev3_lejos_software_development_project_hamk0324
+```
+
+2. Navigate to the project directory:
+```bash
+   cd your-repo
 ```
