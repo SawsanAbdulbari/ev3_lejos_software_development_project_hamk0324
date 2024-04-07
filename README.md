@@ -2,7 +2,7 @@
 
 ![Robotics](https://img.shields.io/badge/Robotics-EV3-green?style=flat&logo=lego)
 ![Java version](https://img.shields.io/badge/Java%20version-1.7%2B-007396?style=flat&logo=java)
-![GitHub repo size](https://img.shields.io/github/repo-size/SawsanAbdulbari/ev3_lejos_software_development_project_hamk2024?color=blue&logo=github)
+![GitHub repo size](https://img.shields.io/github/repo-size/SawsanAbdulbari/ev3_lejos_software_development_project_hamk0324?color=blue&logo=github)
 ![Type of Project](https://img.shields.io/badge/Type%20of%20Project-Software%20Development-orange?style=flat)
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
@@ -48,21 +48,39 @@ The project aims to demonstrate basic capabilities of LEGO EV3 robots by using J
 ##  Project Structure
 The project is organized into modules for easy navigation and development:
 
-ev3_lejos_software_development_project_hamk2024/
+
+ev3_lejos_software_development_project_hamk0324/
 ```
-│
-├── src/
-│ ├── main/
-│ │ ├── java/
-│ │ │ ├── control/
-│ │ │ ├── motors/
-│ │ │ └── sensors/
-│ │ └── resources/
-│ └── test/
-│
-├── .gitignore
-├── LICENSE
-└── README.md
+EV3LeJOSProjectTeam17_0324
+    ├───.settings
+    ├───bin
+    │   ├───data
+    │   ├───main
+    │   │   ├───java
+    │   │   │   ├───colorSensor
+    │   │   │   ├───LCD
+    │   │   │   ├───motors
+    │   │   │   └───ultraSonicSensor
+    │   │   └───test
+    │   │       └───sensors
+    │   └───resources
+    ├───docs
+    └───src
+    │   ├───data
+    │   ├───main
+    │   │   ├───java
+    │   │   │   ├───colorSensor
+    │   │   │   ├───LCD
+    │   │   │   ├───motors
+    │   │   │   └───ultraSonicSensor
+    │   │   └───test
+    │   │       └───sensors
+    │   └───resources
+    │ 
+    ├── ContributionGuidelines.md
+    ├── .gitignore
+    ├── LICENSE
+    └── README.md
 ```
 
 
@@ -72,5 +90,5 @@ Clone this repository and navigate into the project directory:
 
 ```bash
 git clone https://github.com/SawsanAbdulbari/ev3_lejos_software_development_project_hamk0324.git
-cd ev3_lejos_software_development_project_hamk2024
+cd ev3_lejos_software_development_project_hamk0324
 ```
