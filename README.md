@@ -93,18 +93,7 @@ ev3_lejos_software_development_project_hamk0324/
 
 ```
 EV3LeJOSProjectTeam17_0324
-├───.settings
-├───bin
-│ ├───data
-│ ├───main
-│ │ ├───java
-│ │ │ ├───colorSensor
-│ │ │ ├───LCD
-│ │ │ ├───motors
-│ │ │ └───ultraSonicSensor
-│ │ └───test
-│ │ └───sensors
-│ └───resources
+│ 
 ├───docs
 └───src
 │ ├───data
