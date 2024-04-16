@@ -134,7 +134,7 @@ cd your-repo
 
 ## Contribution Guidelines:
 
-For contributing to this project, please see our [Contribution Guidelines](ContributionGuidelines.md).
+For contributing to this project, please see our [Contribution Guidelines](CONTRIBUTING.md).
 
 ### MainClass.java
 
